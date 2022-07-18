@@ -1,4 +1,4 @@
-# token-with-ico
+# token-ico
 An ERC20 token with presale smart contract.
 
 Hosted on Pythonanywhere: https://icocrypto.pythonanywhere.com/
